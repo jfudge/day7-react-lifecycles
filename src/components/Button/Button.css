@@ -1,0 +1,11 @@
+.customButton {
+  margin-right: 4px;
+  appearance: none;
+  border: 1px solid hotpink;
+  background: hotpink;
+  color: #fff;
+  padding: 4px 8px;
+  font-size: 16px;
+  border-radius: 4px;
+  cursor: pointer;
+}

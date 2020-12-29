@@ -1,0 +1,8 @@
+.counter {
+  margin: 50px;
+}
+.count {
+  display: inline-block;
+  width: 40px;
+  font-size: 20px;
+}
